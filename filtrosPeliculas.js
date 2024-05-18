@@ -1,5 +1,5 @@
 //FILTROS GENERO PELICULA
-// Obtener todos los botones de filtro
+
 const filterBtns = document.querySelectorAll('.filter-btn');
 // Obtener todos los elementos de película
 const movieItemsFilter = document.querySelectorAll('.movie-item');
