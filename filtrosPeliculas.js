@@ -1,4 +1,4 @@
-//FILTROS GENERO PELICULA
+
 
 const filterBtns = document.querySelectorAll('.filter-btn');
 // Obtener todos los elementos de película
